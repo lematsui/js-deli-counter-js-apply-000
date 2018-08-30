@@ -1,6 +1,7 @@
 function takeANumber(line) {
- var number = line.indexOf[element]
- var element = line.shift()
+ var element = line.slice();
+ var number = line.indexOf[element];
+ 
  
 }
   
