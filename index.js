@@ -1,3 +1,7 @@
+function takeANumber(line) {
+  var currentNumber = 
+}
+
 function takeANumber(line, name) {
   line.push(name);
   return `Welcome, ${name}. You are number ${line.length} in line.`;
@@ -29,3 +33,4 @@ function currentLine(theLine) {
     return "The line is currently empty."
   }
 }
+
