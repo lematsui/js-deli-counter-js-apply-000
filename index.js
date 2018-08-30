@@ -1,4 +1,6 @@
-function takeANumber(line)
+function takeANumber(line) {
+ var number = line.length[place]
+}
   
 }
 
