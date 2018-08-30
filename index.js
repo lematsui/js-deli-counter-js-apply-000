@@ -1,9 +1,10 @@
 function takeANumber(line) {
   var currentNumber = 0;
-  currentNumber ++;
-  for (var i = 0; i > 0; i++) {
-    currentNumber = line.shift();
-  }
+  var thePeople = [];
+  for (currentNumber = 0; currentNumber > 0; currentNumber ++) {
+    thePeople = thePeople + currentNumber;
+    }
+  
 }
 
 function takeANumber(line, name) {
