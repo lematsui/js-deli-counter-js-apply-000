@@ -1,9 +1,4 @@
-function takeANumber(line) {
-  var currentNumber = 0;
-  var thePeople = [];
-  for (currentNumber = 0; currentNumber > 0; currentNumber ++) {
-    thePeople = thePeople + currentNumber;
-    }
+function takeANumber(line)
   
 }
 
