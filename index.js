@@ -1,5 +1,6 @@
 function takeANumber(line) {
- var number = line.length[place]
+ var number = line.indexOf[element]
+ 
 }
   
 }
