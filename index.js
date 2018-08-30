@@ -1,5 +1,6 @@
 function takeANumber(line) {
-  var currentNumber = line.shift();  
+  var currentNumber = 0;
+  currentNumber ++;
   for (var i = 0; i > 0; i++) {
     currentNumber = line.shift();
   }
